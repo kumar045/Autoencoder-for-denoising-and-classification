@@ -1,1 +1,1 @@
-# Autoencoder-for-denoising-and-classification
+# Autoencoder-for-image-denoising-and-classification
